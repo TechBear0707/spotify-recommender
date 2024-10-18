@@ -60,4 +60,5 @@ python main.ipynb
 6. **Get song recommendations**: Recommends songs based on the cluster of your liked songs.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+```
