@@ -1,0 +1,51 @@
+Artist,Song,Track ID,Album,Release Date,Popularity,Danceability,Energy,Loudness,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo
+Morgan Wallen,Talkin' Tennessee,1mUTpDe3E8pML637zOFL5D,If I Know Me,2018-04-27,70,0.702,0.71,-6.653,0.0247,0.56,0.0,0.103,0.508,99.987
+Morgan Wallen,Love Somebody,7hR22TOX3RorxJPcsz5Wbo,Love Somebody,2024-10-18,0,0.619,0.843,-5.348,0.0284,0.00948,0.000118,0.164,0.746,122.064
+Coldplay,Clocks,0BCPKOYdS2jbQ8iyB56Zns,A Rush of Blood to the Head,2002-08-27,82,0.577,0.749,-7.215,0.0279,0.599,0.0115,0.183,0.255,130.97
+Morgan Wallen,Sand In My Boots,0uRrG2jRR5tuifsYIJHEao,Dangerous: The Double Album,2021-01-08,74,0.403,0.537,-6.628,0.031,0.59,0.0,0.112,0.414,69.877
+Zach Bryan,Pink Skies,4ZJ4vzLQekI0WntDbanNC7,Pink Skies,2024-05-24,86,0.525,0.488,-6.909,0.038,0.191,5.14e-05,0.135,0.253,84.999
+Royel Otis,Linger - SiriusXM Session,2dono2Koz7DEvGwxUsmMLq,Linger / Heading For The Door (Sirius XM Session),2024-05-31,79,0.404,0.393,-6.607,0.0262,0.806,0.000443,0.0938,0.403,98.217
+Mumford & Sons,I Will Wait,1fXiYSWmkKJfRKMegCkI11,Babel (Deluxe Version),2012-09-25,64,0.478,0.758,-5.4,0.0331,0.00974,0.00717,0.312,0.452,131.109
+Morgan Wallen,Somebody’s Problem,42lqBjPYlmL1EXpMDXvhSN,Dangerous: The Double Album,2021-01-08,70,0.658,0.538,-7.676,0.0289,0.657,0.0,0.123,0.62,136.967
+Eminem,Rap God,6or1bKJiZ06IlK0vFvY75k,The Marshall Mathers LP2 (Deluxe),2013-11-05,74,0.709,0.843,-2.66,0.314,0.395,0.0,0.799,0.625,148.134
+Dave Matthews Band,What Would You Say,58kdQwsAi2zHEiU2l0CBB8,Under The Table And Dreaming,1994-09-27,44,0.642,0.921,-5.631,0.0494,0.125,0.000618,0.0836,0.655,119.486
+Genesis,More Fool Me - 2007 Stereo Mix,4EoKbid1MFccC0VCtO5ehz,Selling England by the Pound (2007 Stereo Mix),1973-10-12,41,0.44,0.127,-12.495,0.0332,0.858,0.0,0.11,0.229,136.803
+David Allan Coe,The Ride,4wt2PBgqXZbvRiWSHDc4O4,Castles in the Sand,1983-04-01,60,0.668,0.429,-12.365,0.0464,0.241,0.0,0.129,0.531,83.504
+Johnny Cash,God's Gonna Cut You Down,6jXPZid0KLorvgIDP6TiSo,American V: A Hundred Highways,2006-01-01,66,0.618,0.484,-8.229,0.127,0.875,4.31e-05,0.115,0.834,82.317
+Waylon Jennings,I'm a Ramblin' Man,24uwABPWPejBuvFL4tMkvD,The Ramblin' Man,1974-09-01,63,0.724,0.735,-8.262,0.0286,0.147,0.00131,0.0899,0.839,109.281
+Zach Bryan,Motorcycle Drive By,2HbpYFQbairMoU2YFyOP2x,Summertime Blues,2022-07-15,78,0.655,0.682,-4.562,0.0464,0.0392,0.0,0.67,0.525,124.306
+Grateful Dead,Friend of the Devil,5ZLzl6T8JwqMTMdoE0nCbU,American Beauty,1970-06-01,60,0.642,0.628,-12.849,0.0358,0.334,8.29e-06,0.614,0.893,103.317
+Grateful Dead,Fire on the Mountain - 2013 Remaster,4DpBfWl3q8e0gGB76lAaox,Shakedown Street,1978,55,0.788,0.461,-11.704,0.0556,0.528,2.69e-05,0.0886,0.906,76.669
+Ennio Morricone,The Ecstasy Of Gold - 2004 Remaster,6PrKZUXJPmBiobMN44yR8Y,"The Good, The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered & Expanded)]",1967,59,0.134,0.474,-13.864,0.0518,0.826,0.58,0.195,0.133,98.854
+Annihilator,Crystal Ann,6HdieikOXlB5C75iebDKqp,Alice In Hell,1989,45,0.564,0.7,-11.625,0.0365,0.696,0.906,0.0874,0.846,159.33
+Dave Matthews Band,Ants Marching,3HL9dtbUo5mJwXQyaEUESR,Under The Table And Dreaming,1994-09-27,53,0.653,0.825,-5.243,0.0335,0.0277,8.84e-05,0.053,0.846,113.249
+Afroman,Because I Got High,0rRboI6IRuGx56Dq3UdYY4,The Good Times,2001-08-28,64,0.802,0.341,-8.56,0.488,0.169,0.0,0.0783,0.849,166.01
+Afroman,Crazy Rap (Colt 45 & 2 Zig Zags),1ACZpHI5vZ5Ea4xGlkdGWM,The Good Times,2001-08-28,68,0.927,0.367,-7.797,0.382,0.325,0.0,0.132,0.576,99.053
+Daler Mehndi,Tunak Tunak Tun,131yybV7A3TmC34a0qE8u8,Tunak Tunak Tun,1998-02-28,56,0.794,0.977,-5.637,0.178,0.526,0.00196,0.0616,0.687,150.008
+Megadeth,Reckoning Day - Remastered 2004,1Bw7kDeY4ZPfUo5UY18tOO,Youthanasia (Expanded Edition - Remastered),1994-10-28,45,0.567,0.94,-5.364,0.0716,3.82e-05,0.0888,0.15,0.431,120.321
+Megadeth,Train Of Consequences - Remastered 2004,03Yv8adIIOsRACDHLUYS9l,Youthanasia (Expanded Edition - Remastered),1994-10-28,48,0.555,0.946,-3.922,0.158,0.000116,0.00119,0.0477,0.568,114.755
+Faith No More,Midlife Crisis,62HyVeSK4fpxjKj6dsI5MP,Angel Dust,1992-06-08,48,0.669,0.656,-10.549,0.0413,0.00113,0.000252,0.0989,0.464,108.098
+TOOL,Sober,6DyywdbmTzlmXBzG9ym7Rt,Undertow,1993-04-06,67,0.385,0.673,-8.182,0.0329,0.000183,0.149,0.0721,0.187,149.271
+Megadeth,Mechanix,2bfwYcc1FzkIym0XRkYb7F,Killing Is My Business...And Business Is Good!,1985,50,0.347,0.99,-4.994,0.207,2.55e-06,0.481,0.361,0.0756,128.99
+Megadeth,Looking Down the Cross,6keueqJqlA0VEKLyKdUQRA,Killing Is My Business...And Business Is Good!,1985,36,0.299,0.985,-4.697,0.256,8.57e-06,0.0436,0.151,0.0492,123.701
+Accept,Balls to the Wall,2dbOYFfS7r7NAzquRvji9A,Balls To The Wall,1983,56,0.544,0.739,-7.383,0.0517,0.00392,0.000143,0.168,0.328,118.287
+50 Cent,Just A Lil Bit,4nva9EpKntUTs6CRSGBCn9,The Massacre,2005-03-03,77,0.489,0.692,-6.672,0.41,0.0322,0.00608,0.315,0.527,96.946
+Five Finger Death Punch,This Is The Way (feat. DMX),41uRcFai0Ta90sBnYB4OgK,AfterLife (Deluxe),2024-04-05,60,0.559,0.929,-4.042,0.0326,0.00208,0.0,0.176,0.57,95.717
+Megadeth,Holy Wars...The Punishment Due - 2004 Remix,5LyRtsQLhcXmy50VXhQXXS,Rust In Peace (2004 Remix / Expanded Edition),1990-10-04,66,0.325,0.985,-3.941,0.151,0.00177,0.107,0.351,0.221,125.307
+Megadeth,Peace Sells - Remastered,5a2hIQWInPjqkkFiUEgxoX,Peace Sells...But Who's Buying (Deluxe Edition - Remastered),1986,61,0.322,0.932,-4.252,0.163,8.57e-05,0.817,0.0969,0.376,138.042
+Metallica,Fixxxer,3nPUPTVGhcRStUxcvM5xtI,Reload,1997-11-18,36,0.48,0.837,-4.644,0.0452,0.000163,0.000244,0.0539,0.385,132.695
+Metallica,The Outlaw Torn,44ARj4IaCoOevEu1oy0z1v,Load,1996-06-04,40,0.621,0.725,-6.802,0.0318,0.00026,0.0637,0.368,0.418,118.515
+Metallica,Mama Said,4ePx4Js87KSIVMLL4RD7vX,Load,1996-06-04,45,0.451,0.497,-7.694,0.0311,0.0186,0.000505,0.395,0.397,135.298
+Incubus,Drive,7nnWIPM5hwE3DaUBkvOIpy,Make Yourself,1999-10-26,77,0.645,0.792,-7.34,0.036,0.0562,0.0121,0.119,0.666,90.565
+Metallica,Just A Bullet Away,5xpG6EQnL4AEkivmbERHbY,Beyond Magnetic,2011-12-13,28,0.493,0.946,-3.131,0.0422,0.00266,0.00152,0.0598,0.391,127.348
+Metallica,Hate Train,6lFpfxcxgNo9srWkRuk9ZM,Beyond Magnetic,2011-12-13,26,0.339,0.958,-3.171,0.0633,0.000211,0.00221,0.0536,0.34,119.047
+Taylor Swift,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),7qEUFOVcxRI19tbT68JcYK,Red (Taylor's Version),2021-11-12,70,0.498,0.61,-5.098,0.0363,0.271,0.0,0.223,0.474,79.918
+Ed Sheeran,Lego House,5ubHAQtKuFfiG4FXfLP804,+,2011-09-09,70,0.592,0.637,-8.48,0.0992,0.562,0.0,0.13,0.565,159.701
+Arrested Development,Mr. Wendal,5DOYik1z3Of1wAFfY3dYbC,"3 Years, 5 Months And 2 Days In The Life Of...",1992-03-24,50,0.884,0.37,-11.353,0.112,0.0188,0.00423,0.026,0.883,109.997
+Miguel,Sure Thing,0JXXNGljqupsJaZsgSbMZV,All I Want Is You,2010-11-26,85,0.684,0.607,-8.127,0.1,0.0267,0.000307,0.191,0.498,81.001
+Lady Gaga,Die With A Smile,2plbrEY59IikOBgBGLjaoe,Die With A Smile,2024-08-16,100,0.521,0.592,-7.777,0.0304,0.308,0.0,0.122,0.535,157.969
+Blackalicious,Alphabet Aerobics,4z5L0qDduw3w1apQ4Qa6KV,A2G EP,1999-04-30,47,0.65,0.515,-8.722,0.198,0.0196,0.0,0.0974,0.885,97.052
+Megan Moroney,Am I Okay?,36wAwEkSDpNQ4oQeRLYC3L,Am I Okay?,2024-07-12,76,0.593,0.734,-5.416,0.0514,0.02,0.0,0.138,0.518,125.937
+Tears For Fears,Head Over Heels,748yv6bb3l3CcKS45a6SZ8,Rule The World: The Greatest Hits,2017-11-10,66,0.602,0.839,-4.251,0.0255,0.502,0.00118,0.095,0.653,95.16
+T.I.,Bring Em Out,7oAZVxmRCVFanxK7tk16vv,Urban Legend,2004-11-28,51,0.764,0.875,-4.27,0.273,0.0432,0.0,0.236,0.573,98.565
+Chappell Roan,Pink Pony Club,1k2pQc5i348DCHwbn5KTdc,The Rise and Fall of a Midwest Princess,2023-09-22,87,0.61,0.65,-6.199,0.0474,0.399,0.0,0.11,0.507,106.719
