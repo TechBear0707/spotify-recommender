@@ -1,5 +1,5 @@
 # spotify-recommender
-A song recommendation system utilizing k-means clustering, PCA, and Spotify's API. Accesses a user's liked playlist and generates song recommendations. For the full article and main findings, you can visit [here]([https://developer.spotify.com/dashboard/applications](https://medium.com/@logan.margo314/building-a-spotify-song-recommender-using-k-means-clustering-15c8b4c84464))
+A song recommendation system utilizing k-means clustering, PCA, and Spotify's API. Accesses a user's liked playlist and generates song recommendations. For the full article and main findings, you can visit this [Medium article](https://medium.com/@logan.margo314/building-a-spotify-song-recommender-using-k-means-clustering-15c8b4c84464). 
 
 ## Features
 - **Spotify API Integration**: Accesses your liked songs from your Spotify account to analyze your music preferences.
